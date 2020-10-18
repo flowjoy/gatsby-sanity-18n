@@ -1,11 +1,10 @@
 # International Gatsby & Sanity 
-We're going to build a localization solution between Sanity and Gatsby. Content editors will be able to edit all the content in different languages from Sanity and these will be dynamically generated as SEO friendly pages with correct URLs on Gatsby. 
+We're going to build a localization solution between Sanity and Gatsby. Content editors will be able to edit all the content (pages and posts) in different languages from Sanity and these will be dynamically generated as SEO friendly pages with correct URLs on Gatsby. 
 
 ## What you have
 
 - A blazing fast blog with [Gatsby.js](https://gatsbyjs.org)
 - Structured content using [Sanity.io](https://www.sanity.io)
-- Global deployment on [Netlify](https://netlify.com)
 
 ## Quick start
 
@@ -23,13 +22,3 @@ We're going to build a localization solution between Sanity and Gatsby. Content 
 3. Restart the development server (`ctrl + C` and `npm run dev`).
 
 If you want to turn off preview you can set `watchMode: false` in gatsby-config.js. If you just want to preview published changes you can set `overlayDrafts: false` in gatsby-config.js.
-
-## Deploy changes
-
-Netlify automatically deploys new changes commited to master on GitHub. If you want to change deployment branch, do so in [build & deploy settings on Netlify](https://www.netlify.com/docs/continuous-deployment/#branches-deploys).
-
-## Stuck? Get help
-
-[![Slack Community Button](https://slack.sanity.io/badge.svg)](https://slack.sanity.io/)
-
-Join [Sanity’s developer community](https://slack.sanity.io) or ping us [on twitter](https://twitter.com/sanity_io).
