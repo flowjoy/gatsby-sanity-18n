@@ -1,8 +1,5 @@
-# gatsby-sanity-18n
-
-_Fully customizable blog template with a React.js front-end._
-
-Deployed from [sanity.io/create](https://www.sanity.io/create/?template=sanity-io%2Fsanity-template-gatsby-blog).
+# International Gatsby & Sanity 
+We're going to build a localization solution between Sanity and Gatsby. Content editors will be able to edit all the content in different languages from Sanity and these will be dynamically generated as SEO friendly pages with correct URLs on Gatsby. 
 
 ## What you have
 
